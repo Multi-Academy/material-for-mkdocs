@@ -32,6 +32,7 @@ theme:
     - content.code.select
 
 plugins:
+  - search
   - git-committers:
       repository: Multi-Academy/material-for-mkdocs
       branch: main
