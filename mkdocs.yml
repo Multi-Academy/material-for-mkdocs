@@ -1,0 +1,4 @@
+site_name: Material For Mkdocs Tutorial
+theme:
+  name: material
+
