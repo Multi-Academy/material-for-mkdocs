@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 ## What is MkDocs?
-- MkDocs ဆိုတာကတော့ static site တွေ generate လုပ်ရမှာ သုံးနိုင်ပီးတော့ သုံးရတာ လွယ်ကူ မြန်ဆန်ပါတယ်။
+> MkDocs ဆိုတာကတော့ static site တွေ generate လုပ်ရမှာ သုံးနိုင်ပီးတော့ သုံးရတာ လွယ်ကူ မြန်ဆန်ပါတယ်။
 အဓိကကတော့ Project Documentation တွေ ရေးဖို့ရည်ရွယ်ပါတယ်။ Markdown မှာ document source file တွေရေးပီးတော့ YAML file နဲ့ configure ချရပါတယ်။
 
 ## Features of MkDocs
@@ -15,3 +15,15 @@
 
 ### Host anywhere
 - MkDocs သည် GitHub pages, Amazon S3 သို့မဟုတ် ကိုယ်တည်ဆောက်လိုသည့် မည်သည့်နေရာတွင်မဆို static HTML site များကို တည်ဆောက်ပေးနိုင်ပါသည်။
+
+# Material for MkDocs
+> Markdown မှာ မိမိရဲ့ documentation ကို ရေးပီးတော့ Device အားလုံးမှာ ရနိုင်တဲ့ ရှာလို့ရ, customize လုပ်လို့ရတဲ့ static site တစ်ခုကို မိနစ်ပိုင်းအတွင်း တည်ဆောက်လိုက်ပါ 
+
+## Everything you would expect
+### It's just Markdown
+- Document ရေးဖို့ content သေချာစဉ်းစားပီး professional static site တစ်ခုကို မိနစ်ပိုင်းအတွင်း ရေးနိုင်ပါတယ်၊ HTML, CSS, JavaScript တွေ သိစရာမလိုပဲ Material for MkDocs က လုပ်ပေးပါလိမ့်မယ်
+
+### Works on all devices
+- Tablet, Desktop, Mobile ဘယ် device မှာမဆို Material for MkDocs က documents တွေကို auto fit ဖြစ်အောင်လုပ်ပေးမှာပါ။
+### Made to measure
+- Material for MkDocs မှာ appearance ဘယ်လိုပေါ်ချင်တယ်ဆိုတာ configure လုပ်နိုင်တဲ့ options တွေရှိပါတယ်၊ font ပြောင်းမလား၊ color ချိန်းမလား၊ icon, logo စသဖြင့် configure လုပ်လို့ရပါတယ်။
